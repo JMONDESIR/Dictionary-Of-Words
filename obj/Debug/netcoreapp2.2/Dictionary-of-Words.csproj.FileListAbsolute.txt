@@ -1,0 +1,11 @@
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.csprojAssemblyReference.cache
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.csproj.CoreCompileInputs.cache
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.AssemblyInfoInputs.cache
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.AssemblyInfo.cs
+/Users/Joel/workspace/csharp/Dictionary-of-Words/bin/Debug/netcoreapp2.2/Dictionary-of-Words.deps.json
+/Users/Joel/workspace/csharp/Dictionary-of-Words/bin/Debug/netcoreapp2.2/Dictionary-of-Words.runtimeconfig.json
+/Users/Joel/workspace/csharp/Dictionary-of-Words/bin/Debug/netcoreapp2.2/Dictionary-of-Words.runtimeconfig.dev.json
+/Users/Joel/workspace/csharp/Dictionary-of-Words/bin/Debug/netcoreapp2.2/Dictionary-of-Words.dll
+/Users/Joel/workspace/csharp/Dictionary-of-Words/bin/Debug/netcoreapp2.2/Dictionary-of-Words.pdb
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.dll
+/Users/Joel/workspace/csharp/Dictionary-of-Words/obj/Debug/netcoreapp2.2/Dictionary-of-Words.pdb
